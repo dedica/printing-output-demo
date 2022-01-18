@@ -14,3 +14,5 @@ console.log('x % y = ' + (x % y)); // 0
 // interpolating variables into string
 console.log(`x = 15, y = 5`);
 console.log(`x + y = ${(x + y)}`); // 20
+
+alert('Hello from JavaScript file!');
